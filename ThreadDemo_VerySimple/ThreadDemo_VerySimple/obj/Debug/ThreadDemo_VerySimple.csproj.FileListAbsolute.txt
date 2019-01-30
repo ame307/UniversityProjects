@@ -1,0 +1,5 @@
+C:\Users\tesa3\Desktop\GitHub\ThreadDemo_VerySimple\ThreadDemo_VerySimple\bin\Debug\ThreadDemo_VerySimple.exe.config
+C:\Users\tesa3\Desktop\GitHub\ThreadDemo_VerySimple\ThreadDemo_VerySimple\bin\Debug\ThreadDemo_VerySimple.exe
+C:\Users\tesa3\Desktop\GitHub\ThreadDemo_VerySimple\ThreadDemo_VerySimple\bin\Debug\ThreadDemo_VerySimple.pdb
+C:\Users\tesa3\Desktop\GitHub\ThreadDemo_VerySimple\ThreadDemo_VerySimple\obj\Debug\ThreadDemo_VerySimple.exe
+C:\Users\tesa3\Desktop\GitHub\ThreadDemo_VerySimple\ThreadDemo_VerySimple\obj\Debug\ThreadDemo_VerySimple.pdb
