@@ -1,2 +1,2 @@
 # Examples
-Program demos with technologies that I met
+Program demos and projects that I made to my cv.
