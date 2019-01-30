@@ -1,0 +1,9 @@
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\bin\Debug\PurchaseTest.dll
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\bin\Debug\PurchaseTest.pdb
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\bin\Debug\UnitTestDemo.exe
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\bin\Debug\UnitTestDemo.pdb
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\obj\Debug\PurchaseTest.csprojResolveAssemblyReference.cache
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\obj\Debug\PurchaseTest.dll
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\PurchaseTest\obj\Debug\PurchaseTest.pdb

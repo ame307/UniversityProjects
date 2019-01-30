@@ -1,0 +1,6 @@
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe.config
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.exe
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\UnitTestDemo\bin\Debug\UnitTestDemo.pdb
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.csprojResolveAssemblyReference.cache
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.exe
+C:\Users\tesa3\Desktop\GitHub\UnitTestDemo\UnitTestDemo\obj\Debug\UnitTestDemo.pdb
