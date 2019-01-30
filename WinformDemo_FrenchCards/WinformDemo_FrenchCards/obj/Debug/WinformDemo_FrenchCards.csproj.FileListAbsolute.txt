@@ -1,0 +1,8 @@
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\bin\Debug\WinformDemo_FrenchCards.exe.config
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\obj\Debug\WinformDemo_FrenchCards.Form1.resources
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\obj\Debug\WinformDemo_FrenchCards.Properties.Resources.resources
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\obj\Debug\WinformDemo_FrenchCards.csproj.GenerateResource.Cache
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\bin\Debug\WinformDemo_FrenchCards.exe
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\bin\Debug\WinformDemo_FrenchCards.pdb
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\obj\Debug\WinformDemo_FrenchCards.exe
+C:\Users\tesa3\Desktop\GitHub\WinformDemo_FrenchCards\WinformDemo_FrenchCards\obj\Debug\WinformDemo_FrenchCards.pdb
