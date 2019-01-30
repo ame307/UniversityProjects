@@ -1,0 +1,13 @@
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\bin\Debug\RecursionDemo_Tree_Wpf.exe.config
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\bin\Debug\RecursionDemo_Tree_Wpf.exe
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\bin\Debug\RecursionDemo_Tree_Wpf.pdb
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\App.g.cs
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\RecursionDemo_Tree_Wpf_MarkupCompile.cache
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\RecursionDemo_Tree_Wpf_MarkupCompile.lref
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\MainWindow.baml
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\RecursionDemo_Tree_Wpf.g.resources
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\RecursionDemo_Tree_Wpf.Properties.Resources.resources
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\RecursionDemo_Tree_Wpf.csproj.GenerateResource.Cache
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\RecursionDemo_Tree_Wpf.exe
+C:\Users\tesa3\Desktop\GitHub\RecursionDemo_Tree_Wpf\RecursionDemo_Tree_Wpf\obj\Debug\RecursionDemo_Tree_Wpf.pdb
