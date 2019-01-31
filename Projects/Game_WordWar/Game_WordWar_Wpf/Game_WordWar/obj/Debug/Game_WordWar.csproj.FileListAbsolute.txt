@@ -1,0 +1,17 @@
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\bin\Debug\Game_WordWar.exe.config
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\bin\Debug\Game_WordWar.exe
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\bin\Debug\Game_WordWar.pdb
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\MainWindow.g.cs
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\View\GameView.g.cs
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\View\MenuView.g.cs
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\App.g.cs
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\Game_WordWar_MarkupCompile.cache
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\Game_WordWar_MarkupCompile.lref
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\MainWindow.baml
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\View\GameView.baml
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\View\MenuView.baml
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\Game_WordWar.g.resources
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\Game_WordWar.Properties.Resources.resources
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\Game_WordWar.csproj.GenerateResource.Cache
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\Game_WordWar.exe
+C:\Users\tesa3\Desktop\GitHub\Game_WordWar\Game_WordWar\obj\Debug\Game_WordWar.pdb
