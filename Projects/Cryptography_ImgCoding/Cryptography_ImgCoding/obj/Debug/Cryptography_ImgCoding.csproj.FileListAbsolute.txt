@@ -1,0 +1,6 @@
+C:\Users\tesa3\Desktop\GitHub\Cryptography_ImgCoding\Cryptography_ImgCoding\bin\Debug\Cryptography_ImgCoding.exe.config
+C:\Users\tesa3\Desktop\GitHub\Cryptography_ImgCoding\Cryptography_ImgCoding\bin\Debug\Cryptography_ImgCoding.exe
+C:\Users\tesa3\Desktop\GitHub\Cryptography_ImgCoding\Cryptography_ImgCoding\bin\Debug\Cryptography_ImgCoding.pdb
+C:\Users\tesa3\Desktop\GitHub\Cryptography_ImgCoding\Cryptography_ImgCoding\obj\Debug\Cryptography_ImgCoding.csprojResolveAssemblyReference.cache
+C:\Users\tesa3\Desktop\GitHub\Cryptography_ImgCoding\Cryptography_ImgCoding\obj\Debug\Cryptography_ImgCoding.exe
+C:\Users\tesa3\Desktop\GitHub\Cryptography_ImgCoding\Cryptography_ImgCoding\obj\Debug\Cryptography_ImgCoding.pdb
