@@ -1,0 +1,10 @@
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+D:\Files\2018\PROG\Visual\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache

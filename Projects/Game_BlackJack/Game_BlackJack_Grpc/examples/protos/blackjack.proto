@@ -1,0 +1,54 @@
+syntax = "proto3";
+option java_package = "io.grpc.examples";
+option objc_class_prefix = "HLW";
+
+//Write this after using in C#!
+package BJ;
+
+// Methods
+service BJ {
+  rpc Login(User) returns (Session_Id) {}
+  rpc Logout(Session_Id) returns (Receipt) {}
+  rpc Registration(User) returns (Receipt) {}
+  rpc Deal(Request) returns (GameResult) {}
+  rpc Hit(Session_Id) returns (GameResult) {}
+  rpc Stand(Session_Id) returns (GameResult) {}
+  rpc Double(Session_Id) returns (GameResult) {}
+  rpc Surrender(Session_Id) returns (GameResult) {}
+  rpc List(Empty) returns (stream UserRecord) {}
+}
+
+message Empty {
+}
+
+message GameResult {
+  string playerCards=1;
+  string dealerCards=2;
+  string playerAmount=3;
+  string dealerAmount=4;
+  string money=5;
+  string result=6;
+}
+
+message Request {
+  string id=1;
+  int32 amount=2;
+}
+
+message User {
+  string name=1;
+  string passwd=2;
+}
+
+message UserRecord {
+  string name = 1;
+  int32 money = 2;
+}
+
+message Session_Id {
+  string id=1;
+}
+
+message Receipt {
+  string success=1;
+}

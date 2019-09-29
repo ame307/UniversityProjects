@@ -6,6 +6,12 @@ Here you can check my projects which were created to the school. They are not pe
 
 It was one of my hardest task at the university. I had to create an application which use **GRPC** and I choosed BlackJack. I do not know why but I wrote the whole program in **Windows forms** and it was not clean at all. I suffered a lot with it I had lots of problem that I did not expect but in the end it worked. So there is a server which represent the dealer and when you connect to the server you going to play on an independent **thread** so several user can play the game at the same time . The user details and their score going to be stored on an **Oracle Database**.
 
+Unfortunately I could not make screenshots about the version with GRPC. Before it I made the whole project in a simple WPF. It is very similar just in the one with GRPC you can registrate and login, and you can see the server's highscore list.
+
+<img align="center" src="./Screenshots/bj1.png">
+<img align="center" src="./Screenshots/bj2.png">
+<img align="center" src="./Screenshots/bj3.png">
+
 ## WPF Game - Word War
 
 I had to create a little **WPF** appliciation and I also had to use  **REST API** so I made this little game that I call Word War. It is that kind of typing game where you have to type in the right world to get points. I did use REST API for the highscore, registration, login validation and for delete an account.
