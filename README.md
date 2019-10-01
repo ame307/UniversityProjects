@@ -1,10 +1,10 @@
 # Projects for school
 
-Here you can check my projects which were created to the school. They are not perfect, sometimes I had not got enough time to make them nice and clean and some of them was never finished.
+Here you can check my projects which were created for the school. They are not perfect, sometimes I had not got enough time to make them nice and clean and some of them was never finished.
 
 ## BlackJack
 
-It was one of my hardest task at the university. I had to create an application which use **GRPC** and I choosed BlackJack. I do not know why but I wrote the whole program in **Windows forms** and it was not clean at all. I suffered a lot with it I had lots of problem that I did not expect but in the end it worked. So there is a server which represent the dealer and when you connect to the server you going to play on an independent **thread** so several user can play the game at the same time . The user details and their score going to be stored on an **Oracle Database**.
+It was one of my hardest task at the university. I had to create an application which use **GRPC** and I choosed BlackJack. I do not know why but I wrote the whole program in **Windows forms** and it was not clean at all. I struggled a lot with it I had lots of problem that I did not expect but in the end it worked. So there is a server which represent the dealer and when you connect to the server you going to play on an independent **thread** so several user can play the game at the same time . The user details and their score going to be stored on an **Oracle Database**.
 
 Unfortunately I could not make screenshots about the version with GRPC. Before it I made the whole project in a simple WPF. It is very similar just in the one with GRPC you can registrate and login, and you can see the server's highscore list.
 
@@ -25,9 +25,9 @@ Some screenshot about the game:
 
 ## Java Game - Have To Kill People
 
-We learnt about the **clean coding**, **design patterns** so we had to represent our knowledge with a little java application. I know that we should to practice clean coding here but to be honest in the last 2 years I did not use java so I forgot a lot however I did this. I know it looks like wierd but I can explain that. I heard that sentence from a girl in youtube video where she played with an FPS game and It was so funny and I am a really bad designer so I needed some motivation. 
+We learnt about the **clean coding**, **design patterns** so we had to represent our knowledge with a little java application. I know that we should to practice clean coding here, but to be honest in the last 2 years I did not use java so I forgot a lot altough I did this. I know it looks like wierd, but I can explain that. I heard that sentence from a girl in youtube video where she played with an FPS game and It was so funny and I am a really bad designer so I needed some motivation. 
 
-So we had to implement at least two pattern in this project. I used the **builder pattern** to build up those stickmans. It can be male or female and there is 4 style with each gender. They also have names but you can only see it in the logs. Yes, we had to log every action. The other pattern was the **prototype pattern** that I used for to display the weapons. I also had to use **MVVM** model and there is it. A little stress relief game.
+So we had to implement at least two pattern in this project. I used the **builder pattern** to build up those stickmans. It can be male or female and there is 4 style for each gender. They also have names but you can only see it in the logs. Yes, we had to log every action. The other pattern was the **prototype pattern** that I used for to display the weapons. I also had to use **MVVM** model and there is it. A little stress relief game.
 
 Some screenshot about the game:
 
@@ -44,13 +44,13 @@ We had a course about **Cryptography** and the teacher give up an optional task 
 
 ## French Cards
 
-I wanted to be sure about the cards img importation works well for the BlackJack project, so I made this little **WPF** applications where we can go through the cards.
+I wanted to be sure about the card images importation works well for the BlackJack project, so I made this little **WPF** applications where we can go through the cards.
 
 <img align="center" src="./Screenshots/frenchcards.png">
 
 ## Recursion - Sierpiński
 
-Here we learnt about the recusions and made this little **WPF** to visualize that how **recursion** does work and the Sierpiński triangle is perfect for that. You can see the results:
+Here we learnt about the recusion and made this little **WPF** to visualize that how **recursion** does work and the Sierpiński triangle is perfect for that. You can see the results:
 
 <img align="center" src="./Screenshots/sierprinski.png">
 
